@@ -1,0 +1,29 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  margin: 24px;
+  padding: 16px;
+  width: 560px;
+  .yellowAnswer {
+  background-color: #FFFEE1;
+  margin: 0;
+  padding: 0;
+}
+}
+
+.askAnything {
+  margin-bottom: 32px;
+}
+
+.btn {
+  margin-left: 16px;
+}
+
+.you, .yourCoach{
+  margin-bottom: 24px;
+}
+
+p {
+  font-size: 24px;
+}
